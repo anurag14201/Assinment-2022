@@ -51,12 +51,11 @@ button {
 .head {
     font-size: 40px;
     text-align: center;
-    padding-left: 50%;
+
 }
 
 .sec-one img {
     width: 80%;
-    padding-left: 30%;
 }
 
 .sec-one {
@@ -66,4 +65,12 @@ button {
 
 .sec-one h1 {
     padding-left: 40%;
+}
+
+.head-two img {
+    width: 38%;
+}
+
+.head-three img {
+    width: 40%;
 }
