@@ -85,6 +85,15 @@ img {
     font-size: 30px;
 }
 
+.mission {
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 20%;
+    padding: 20px;
+}
+
 footer {
     text-align: center;
     background-color: black;
