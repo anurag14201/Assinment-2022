@@ -37,7 +37,7 @@ p {
 }
 
 span {
-    color: lightcoral;
+    color: rgb(253, 177, 35);
 }
 
 button {
@@ -45,7 +45,7 @@ button {
     text-decoration: none;
     padding: 8px 5px;
     font-weight: bold;
-    background-color: orange;
+    background-color: mediumvioletred;
 }
 
 .head {
@@ -59,18 +59,44 @@ button {
 }
 
 .sec-one {
-    padding-left: 30%;
-    padding-top: 20%;
-}
-
-.sec-one h1 {
-    padding-left: 40%;
+    padding-left: 10%;
 }
 
 .head-two img {
-    width: 38%;
+    width: 80%;
 }
 
 .head-three img {
-    width: 40%;
+    width: 80%;
+}
+
+img {
+    width: 90%;
+    padding-left: 170px;
+    padding-top: 100px;
+}
+
+.third-one {
+    padding-top: 15%;
+    padding-right: 30%;
+}
+
+.third-one h1 {
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+}
+
+footer p {
+    color: white;
+    text-decoration: none;
+}
+
+footer span {
+    color: red;
 }
