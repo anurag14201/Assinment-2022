@@ -54,20 +54,32 @@ button {
 
 }
 
-.sec-one img {
-    width: 80%;
+.head-one img {
+    width: 110%;
 }
 
-.sec-one {
+.head-one {
     padding-left: 10%;
 }
 
 .head-two img {
-    width: 80%;
+    width: 110%;
+}
+
+.head-two {
+    background-color: rgb(225, 218, 204);
+}
+
+.head-three {
+    background-color: rgb(218, 154, 207);
+}
+
+.head-one {
+    background-color: rgb(135, 186, 156);
 }
 
 .head-three img {
-    width: 80%;
+    width: 110%;
 }
 
 img {
@@ -92,6 +104,8 @@ img {
     margin-right: 5%;
     width: 20%;
     padding: 20px;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 footer {
