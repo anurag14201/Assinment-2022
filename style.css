@@ -45,7 +45,8 @@ button {
     text-decoration: none;
     padding: 8px 5px;
     font-weight: bold;
-    background-color: mediumvioletred;
+    background-color: lightsalmon;
+    border-radius: 10%;
 }
 
 .head {
