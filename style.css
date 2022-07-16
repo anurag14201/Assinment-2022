@@ -151,3 +151,26 @@ footer span {
 .better-text {
     padding-top: 20%;
 }
+
+.pic {
+    background-image: url(shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    background-image: url(shapes/shape-6.png);
+}
+
+.pic1 {
+    background-image: url(shapes/shape-7.png);
+}
+
+.pic3 {
+    background-image: url(shapes/shape-9.png);
+}
+
+.pic2 {
+    background-image: url(shapes/shape-8.png);
+    background-repeat: no-repeat;
+    background-size: 150%;
+
+}
